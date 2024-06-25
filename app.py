@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
-import os
 import openpyxl
 
 # 데이터 파일 경로
